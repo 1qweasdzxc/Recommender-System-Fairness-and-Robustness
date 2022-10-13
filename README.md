@@ -14,9 +14,9 @@ Search keywords like conference name (e.g., `NeurIPS`), task name (e.g., `Link P
 
 ## Quick Links
 
-**Fairness papers sorted by year:** | [2022](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#fairness-papers-2022) | [2021](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#fairness-papers-2021) | [2020](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#fairness-papers-2020) | [2019](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#fairness-papers-2019) | 
+**Fairness papers sorted by year:** | [2022](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#fairness-papers-2022) | [2021](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#fairness-papers-2021) | [2020](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#fairness-papers-2020) | [2019](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#fairness-papers-2019) | 
 
-**Robustness papers sorted by year:** | [2022](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#robustness-papers-2022) | [2021](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#robustness-papers-2021) | [2020](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#robustness-papers-2020) | [2019](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness/edit/main/README.md#robustness-papers-2019) | 
+**Robustness papers sorted by year:** | [2022](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#robustness-papers-2022) | [2021](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#robustness-papers-2021) | [2020](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#robustness-papers-2020) | [2019](https://github.com/1qweasdzxc/Recommender-System-Fairness-and-Robustness#robustness-papers-2019) | 
 
 ### Fairness Papers 2022
 
